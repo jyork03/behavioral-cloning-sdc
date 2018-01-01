@@ -223,8 +223,6 @@ As the videos demonstrate, the trained model is able to successfully drive
 around each track and stay in the proper lane for the two-lane, mountainous
 track.
 
-TODO: generate the videos
-
 ## CNN Visualization
 
 Inspired by Nvidia's techniques for visualizing the internal workings of the
