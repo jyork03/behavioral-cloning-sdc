@@ -2,9 +2,9 @@
 
 [//]: # (Image References)
 
-[new-predictions]: ./writeup-assets/new-predictions.png "New Image Predictions"
+[track-1-sample]: ./assets/track_1_sample.png "Track One Sample"
 
-![new-predictions]
+![track-1-sample]
 
 ## Overview
 
